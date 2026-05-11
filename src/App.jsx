@@ -55,7 +55,7 @@ import StudentTimetable from "./pages/student/timetable/StudentTimetable";
 import Assignments from "./pages/student/assignments/Assignments";
 import StudentExams from "./pages/student/exams/Exams";
 import StudentResult from "./pages/student/result/StudentResult";
-import StudentFees from "./pages/student/fees/Studentfees";
+import StudentFees from "./pages/student/fees/StudentFees";
 import StudentLibrary from "./pages/student/library/Library";
 import TeacherTimeTable from "./pages/teacher/timeTable/TeacherTimeTable";
 import Attendence from "./pages/teacher/attendence/Attendence";
