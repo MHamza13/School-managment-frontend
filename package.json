@@ -29,7 +29,8 @@
     "redux": "^4.2.1",
     "styled-component": "^2.8.0",
     "styled-components": "^5.3.11",
-    "sweetalert2": "^11.26.24"
+    "sweetalert2": "^11.26.24",
+    "vercel": "^53.3.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.30.1",
